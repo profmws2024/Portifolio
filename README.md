@@ -255,16 +255,6 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 - Screen reader friendly
 - ARIA labels
 
-## 📞 Contato
-
-**João Silva** - Desenvolvedor Full Stack
-
-- 📧 Email: joao.silva@email.com
-- 💼 LinkedIn: [linkedin.com/in/joaosilva](https://linkedin.com/in/joaosilva)
-- 🐙 GitHub: [github.com/joaosilva](https://github.com/joaosilva)
-- 🌐 Portfolio: [joaosilva.dev](https://joaosilva.dev)
-
----
 
 ⭐ **Se este projeto te ajudou, considere dar uma estrela!** ⭐
 
